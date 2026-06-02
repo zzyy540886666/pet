@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sheep-Test (Non-Commercial)
+* source:	https://sketchfab.com/3d-models/sheep-test-non-commercial-196bb78e6e6343888d09f468a6a9dbc7
+* author:	Nyilonelycompany (https://sketchfab.com/Nyilonelycompany)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sheep-Test (Non-Commercial)" (https://sketchfab.com/3d-models/sheep-test-non-commercial-196bb78e6e6343888d09f468a6a9dbc7) by Nyilonelycompany (https://sketchfab.com/Nyilonelycompany) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
