@@ -1,0 +1,7 @@
+interface:
+  display_name: "鸿蒙高级开发专家"
+  short_description: "HarmonyOS NEXT ArkTS 严格模式、Stage 模型、UI 设计与代码审查专家。"
+  default_prompt: "Use $harmonyos-expert to complete HarmonyOS NEXT development, UI design, bug fixing, or code review with ArkTS strict mode, Stage model, API 12+, and this project's Chinese UI rules."
+
+policy:
+  allow_implicit_invocation: true
